@@ -13,7 +13,7 @@ Tags: seba, rocha, sebastian, rocha
 :root {
 	--primary-font: 'Manrope', sans-serif !important;
 	--secondary-font: 'Roboto', sans-serif !important;
-	--primary-color: #1F2738; 
+	--primary-color: #ff0000;
 	--primary-color-rgb: rgb(31, 39, 56);
 	--primary-color-rgba025: rgba(31, 39, 56, .025);
 	--primary-color-rgba05: rgba(31, 39, 56, .05);
@@ -43,7 +43,7 @@ Tags: seba, rocha, sebastian, rocha
 	--secondary-color-rgba7: rgba(255, 123, 172, .7);
 	--secondary-color-rgba8: rgba(255, 123, 172, .8);
 	--secondary-color-rgba9: rgba(255, 123, 172, .9);
-	--terciary-color: #ff0000;
+	--terciary-color: #6FB1E1;
 	--border-color: #EAEBEE;
 }
 /*  Body  
