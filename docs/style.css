@@ -13,8 +13,8 @@ Tags: seba, rocha, sebastian, rocha
 :root {
 	--primary-font: 'Manrope', sans-serif !important;
 	--secondary-font: 'Roboto', sans-serif !important;
-	--primary-color: #00ff15;
-	--primary-color-rgb: rgb(145, 255, 0);
+	--primary-color: #1F2738;
+	--primary-color-rgb: rgb(31, 39, 56);
 	--primary-color-rgba025: rgba(31, 39, 56, .025);
 	--primary-color-rgba05: rgba(31, 39, 56, .05);
 	--primary-color-rgba075: rgba(31, 39, 56, .075);
@@ -29,7 +29,7 @@ Tags: seba, rocha, sebastian, rocha
 	--primary-color-rgba8: rgba(31, 39, 56, .8);
 	--primary-color-rgba9: rgba(31, 39, 56, .9);
 	--secondary-color: #FF7BAC;
-	--secondary-color-darker: #EA6998;
+	--secondary-color-darker: #48ff00;
 	--secondary-color-rgb: rgb(255, 123, 172);
 	--secondary-color-rgba025: rgba(255, 123, 172, .025);
 	--secondary-color-rgba05: rgba(255, 123, 172, .05);
@@ -139,7 +139,7 @@ input, input:hover, input:focus {text-decoration: none !important;outline: none 
 .page-heading {font-size: 0;color: transparent;text-indent: -9999px;height: 350px;background-position: center center;background-size: cover !important;background-repeat: no-repeat;}
 /*	max-width 639px  */
 @media only screen and (max-width: 639px) {
-	.page-heading--home {background-image: url('https://img.freepik.com/foto-gratis/joven-confiado_1098-20868.jpg?size=626&ext=jpg');}
+	.page-heading--home {background-image: url('');}
 	.page-heading--about {background-image: url('');}
 	.page-heading--projects {background-image: url('');}
 	.page-heading--contact {background-image: url('');}
@@ -152,7 +152,7 @@ input, input:hover, input:focus {text-decoration: none !important;outline: none 
 	.page-heading--projects {background-image: url('');}
 	.page-heading--contact {background-image: url('');}
 }
-/*	Page Content 
+/*	Page Content  
 ==================================================================================== */
 .page-content {padding: 1.875rem 1.5rem 1rem !important;}
 .page-content__title {font-size: 1.5rem;margin: 0 0 0.5rem;}
