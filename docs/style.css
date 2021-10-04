@@ -15,8 +15,8 @@ Tags: seba, rocha, sebastian, rocha
 	--secondary-font: 'Roboto', sans-serif !important;
 	--primary-color: #1F2738; 
 	--primary-color-rgb: rgb(31, 39, 56);
-	--primary-color-rgba025: rgba(255, 255, 255, 0.025);
-	--primary-color-rgba05: rgba(31, 39, 56, .05);
+	--primary-color-rgba025: rgba(31, 39, 56, .025);
+	--primary-color-rgba05: rgba(255, 255, 255, 0.05);
 	--primary-color-rgba075: rgba(31, 39, 56, .075);
 	--primary-color-rgba1: rgba(31, 39, 56, .1);
 	--primary-color-rgba2: rgba(31, 39, 56, .2);
