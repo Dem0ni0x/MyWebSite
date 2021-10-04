@@ -13,21 +13,21 @@ Tags: seba, rocha, sebastian, rocha
 :root {
 	--primary-font: 'Manrope', sans-serif !important;
 	--secondary-font: 'Roboto', sans-serif !important;
-	--primary-color: #15ff00;
-	--primary-color-rgb: rgb(31, 39, 56);
-	--primary-color-rgba025: rgba(31, 39, 56, .025);
-	--primary-color-rgba05: rgba(31, 39, 56, .05);
-	--primary-color-rgba075: rgba(31, 39, 56, .075);
-	--primary-color-rgba1: rgba(31, 39, 56, .1);
-	--primary-color-rgba2: rgba(31, 39, 56, .2);
-	--primary-color-rgba3: rgba(31, 39, 56, .3);
-	--primary-color-rgba4: rgba(31, 39, 56, .4);
-	--primary-color-rgba5: rgba(31, 39, 56, .5);
-	--primary-color-rgba6: rgba(31, 39, 56, .6);
-	--primary-color-rgba7: rgba(31, 39, 56, .7);
-	--primary-color-rgba75: rgba(31, 39, 56, .75);
-	--primary-color-rgba8: rgba(31, 39, 56, .8);
-	--primary-color-rgba9: rgba(31, 39, 56, .9);
+	--primary-color: #ff0000;
+	--primary-color-rgb: rgb(255, 0, 0);
+	--primary-color-rgba025: rgba(255, 0, 0, 0.025);
+	--primary-color-rgba05: rgba(255, 0, 0, 0.05);
+	--primary-color-rgba075: rgba(255, 0, 0, 0.075);
+	--primary-color-rgba1: rgba(255, 0, 0, .1);
+	--primary-color-rgba2: rgba(255, 0, 0, .2);
+	--primary-color-rgba3: rgba(255, 0, 0, .3);
+	--primary-color-rgba4: rgba(255, 0, 0, .4);
+	--primary-color-rgba5: rgba(255, 0, 0, .5);
+	--primary-color-rgba6: rgba(255, 0, 0, .6);
+	--primary-color-rgba7: rgba(255, 0, 0, .7);
+	--primary-color-rgba75: rgba(255, 0, 0, .75);
+	--primary-color-rgba8: rgba(255, 0, 0, .8);
+	--primary-color-rgba9: rgba(255, 0, 0, .9);
 	--secondary-color: #FF7BAC;
 	--secondary-color-darker: #EA6998;
 	--secondary-color-rgb: rgb(255, 123, 172);
@@ -137,7 +137,7 @@ input, input:hover, input:focus {text-decoration: none !important;outline: none 
 /*	Page Heading  
 ==================================================================================== */
 .page-heading {font-size: 0;color: transparent;text-indent: -9999px;height: 350px;background-position: center center;background-size: cover !important;background-repeat: no-repeat;}
-/*	max-width 639px  */
+/*	max-width 60px  */
 @media only screen and (max-width: 639px) {
 	.page-heading--home {background-image: url('https://img.freepik.com/foto-gratis/joven-confiado_1098-20868.jpg?size=626&ext=jpg');}
 	.page-heading--about {background-image: url('');}
@@ -147,7 +147,7 @@ input, input:hover, input:focus {text-decoration: none !important;outline: none 
 /*	min-width 640px  */
 @media only screen and (min-width: 640px) {
 	.page-heading {width: 50%;height: 100vh;position: fixed;top: 0;left: 0;z-index: 9997;}
-	.page-heading--home {background-image: url('https://img.freepik.com/foto-gratis/joven-confiado_1098-20868.jpg?size=626&ext=jpg');}
+	.page-heading--home {background-image: url('');}
 	.page-heading--about {background-image: url('');}
 	.page-heading--projects {background-image: url('');}
 	.page-heading--contact {background-image: url('');}
