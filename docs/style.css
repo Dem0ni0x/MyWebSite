@@ -140,7 +140,7 @@ input, input:hover, input:focus {text-decoration: none !important;outline: none 
 .page-heading {font-size: 0;color: transparent;text-indent: -9999px;height: 350px;background-position: center center;background-size: cover !important;background-repeat: no-repeat;}
 /*	max-width 639px  */
 @media only screen and (max-width: 639px) {
-	.page-heading--home {background-image: url('contacto\ \(1\).png');}
+	.page-heading--home {background-image: url();}
 	.page-heading--about {background-image: url('');}
 	.page-heading--projects {background-image: url('');}
 	.page-heading--contact {background-image: url('');}
@@ -151,7 +151,7 @@ input, input:hover, input:focus {text-decoration: none !important;outline: none 
 	.page-heading--home {background-image: url('');}
 	.page-heading--about {background-image: url('');}
 	.page-heading--projects {background-image: url('');}
-	.page-heading--contact {background-image: url('./');}
+	.page-heading--contact {background-image: url('Imagenes/contacto_mobile.png');}
 }
 /*	Page Content  
 ==================================================================================== */
