@@ -140,18 +140,18 @@ input, input:hover, input:focus {text-decoration: none !important;outline: none 
 .page-heading {font-size: 0;color: transparent;text-indent: -9999px;height: 350px;background-position: center center;background-size: cover !important;background-repeat: no-repeat;}
 /*	max-width 639px  */
 @media only screen and (max-width: 639px) {
-	.page-heading--home {background-image: url('./images/heading-home__mobile.jpg');}
-	.page-heading--about {background-image: url('./images/heading-about__mobile.jpg');}
-	.page-heading--projects {background-image: url('./images/heading-projects__mobile.jpg');}
-	.page-heading--contact {background-image: url('./images/heading-contact__mobile.jpg');}
+	.page-heading--home {background-image: url('contacto\ \(1\).png');}
+	.page-heading--about {background-image: url('');}
+	.page-heading--projects {background-image: url('');}
+	.page-heading--contact {background-image: url('');}
 }
 /*	min-width 640px  */
 @media only screen and (min-width: 640px) {
 	.page-heading {width: 50%;height: 100vh;position: fixed;top: 0;left: 0;z-index: 9997;}
-	.page-heading--home {background-image: url('./images/heading-home__desktop.jpg');}
-	.page-heading--about {background-image: url('./images/heading-about__desktop.jpg');}
-	.page-heading--projects {background-image: url('./images/heading-projects__desktop.jpg');}
-	.page-heading--contact {background-image: url('./images/heading-contact__desktop.jpg');}
+	.page-heading--home {background-image: url('');}
+	.page-heading--about {background-image: url('');}
+	.page-heading--projects {background-image: url('');}
+	.page-heading--contact {background-image: url('./');}
 }
 /*	Page Content  
 ==================================================================================== */
