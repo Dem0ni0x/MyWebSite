@@ -92,7 +92,7 @@ input, input:hover, input:focus {text-decoration: none !important;outline: none 
 
 @media only screen and (max-width: 639px) {
 	.page-heading--home {background-image: url('Imagenes/inicio_mobile.png');}
-	.page-heading--about {background-image: url('Imagenes/aboutme_mobile.jpg');}
+	.page-heading--about {background-image: url('');}
 	.page-heading--projects {background-image: url('Imagenes/certificado_mobile.jpg');}
 	.page-heading--contact {background-image: url('Imagenes/contacto_mobile.jpg');}
 }
@@ -100,7 +100,7 @@ input, input:hover, input:focus {text-decoration: none !important;outline: none 
 @media only screen and (min-width: 640px) {
 	.page-heading {width: 50%;height: 100vh;position: fixed;top: 0;left: 0;z-index: 9997;}
 	.page-heading--home {background-image: url('Imagenes/inicio_desktop.png');}
-	.page-heading--about {background-image: url('Imagenes/aboutme_desktop.jpg');}
+	.page-heading--about {background-image: url('');}
 	.page-heading--projects {background-image: url('Imagenes/certificado_desktop.jpg');}
 	.page-heading--contact {background-image: url('Imagenes/contacto_desktop.jpg');}
 }
